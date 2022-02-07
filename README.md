@@ -36,7 +36,7 @@ The schema.sql file was run in MySQL Workbench to create the ecommerce_db. I the
 * Use the command "npm i" or "npm install" to install dependency packages needed
 
 ## Usage
-[MySQL2](https://www.npmjs.com/package/mysql2) and [Sequelize](https://www.npmjs.com/package/sequelize) packages to connect an Express.js API to a MySQL database, which utilizes the [dotenv](https://www.npmjs.com/package/dotenv) package to store sensitive environmental variables such as: username, password, and database name. npm run seed command migrates the data to MYSQL. A table is created out of the four objects located in the models folder: Product, Category, Tag, ProductTag.
+Install [MySQL2](https://www.npmjs.com/package/mysql2) and [Sequelize](https://www.npmjs.com/package/sequelize) packages to connect an Express.js API to a MySQL database, which utilizes the [dotenv](https://www.npmjs.com/package/dotenv) package to store sensitive environmental variables such as: username, password, and database name. The npm run seed command migrates the data to MYSQL. A table is created out of the four objects located in the models folder: Product, Category, Tag, ProductTag.
 
 With the node.js packages installed and database seeded without error, run npm start to start the server and connect to local host [http://localhost:3001/](http://localhost:3001/). All API routes were tested in Insomnia.
 

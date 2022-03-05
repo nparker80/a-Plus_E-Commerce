@@ -6,10 +6,11 @@
    <p>
     View application functionality! <a href="https://drive.google.com/file/d/1AoVxjgJZOerT6PMPznnZhCL7lWKMzciY/view"> Walkthrough Video</a>
   </p>
+
+[GitHub Pages](https://nparker80.github.io/a-Plus_E-Commerce/)   
    
 [GitHub Repository](https://github.com/nparker80/a-Plus_E-Commerce)
 
-[GitHub Pages](https://nparker80.github.io/a-Plus_E-Commerce/)
 </div>
 
 ## Table of Contents

@@ -6,6 +6,10 @@
    <p>
     View application functionality! <a href="https://drive.google.com/file/d/1AoVxjgJZOerT6PMPznnZhCL7lWKMzciY/view"> Walkthrough Video</a>
   </p>
+   
+[GitHub Repository](https://github.com/nparker80/a-Plus_E-Commerce)
+
+[Deployed Application](https://nparker80.github.io/a-Plus_E-Commerce/)
 </div>
 
 ## Table of Contents
@@ -66,12 +70,6 @@ With the node.js packages installed and database seeded without error, run npm s
 - [Javascript](https://www.javascript.com)
 - [Insomnia](https://insomnia.rest/)
 - [mysql](https://www.mysql.com/)
-
-## Project Link
-
-[GitHub Repository](https://github.com/nparker80/a-Plus_E-Commerce)
-
-[Deployed Application](https://nparker80.github.io/a-Plus_E-Commerce/)
 
 <br>
 

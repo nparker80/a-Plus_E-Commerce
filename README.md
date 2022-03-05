@@ -22,6 +22,21 @@ This project was developed using starter code to create a back-end application f
 
 The schema.sql file was run in MySQL Workbench to create the ecommerce_db. I then ran the npm run seed command in the CLI to create the tables. Finally, before testing the routes I ran npm start in the CLI to start the server.
 
+![Welcome](Assets/Images/Create-Database.png)
+<br>
+<br>
+![Welcome](Assets/Images/E-commerce_sql.png)
+<br>
+<br>
+![Welcome](Assets/Images/Insomnia-Routes_Categories.png)
+<br>
+<br>
+![Welcome](Assets/Images/Insomnia-Routes_Products.png)
+<br>
+<br>
+![Welcome](Assets/Images/Insomnia-Routes_Tags.png)
+<br>
+<br>
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 ### Before attempting to use this project, install the following on your computer:

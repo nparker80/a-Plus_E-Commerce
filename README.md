@@ -70,7 +70,11 @@ With the node.js packages installed and database seeded without error, run npm s
 ## Project Link
 
 [GitHub Repository](https://github.com/nparker80/a-Plus_E-Commerce)
+
 [Deployed Application](https://nparker80.github.io/a-Plus_E-Commerce/)
+
+<br>
+
 ## License 
 This project is licensed under MIT
 

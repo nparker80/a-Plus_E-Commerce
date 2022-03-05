@@ -9,7 +9,7 @@
    
 [GitHub Repository](https://github.com/nparker80/a-Plus_E-Commerce)
 
-[Deployed Application](https://nparker80.github.io/a-Plus_E-Commerce/)
+[GitHub Pages](https://nparker80.github.io/a-Plus_E-Commerce/)
 </div>
 
 ## Table of Contents

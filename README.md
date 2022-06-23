@@ -23,7 +23,7 @@
 * [Questions](#questions)
 
 ## Description:
-This project was developed using starter code to create a back-end application for an e-commerce site that uses the command line interface (CLI) and object-relational mapping for various methods of data manipulation, storage, and retrieval when using HTTP methods with a RESTUL API.  
+This project was developed using starter code to create a back-end application for an e-commerce site that uses the command line interface (CLI) and object-relational mapping for various methods of data manipulation, storage, and retrieval when using HTTP methods with a RESTFUL API.  
 
 The schema.sql file was run in MySQL Workbench to create the ecommerce_db. I then ran the npm run seed command in the CLI to create the tables. Finally, before testing the routes I ran npm start in the CLI to start the server.
 
